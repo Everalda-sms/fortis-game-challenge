@@ -2,10 +2,10 @@
 This repository validates if random dates are between two specific given dates using website https://www.random.org/calendar-dates
 
 # requirements
--robotframework
--robotframework-seleniumlibrary
--chrome
--pip
+- robotframework
+- robotframework-seleniumlibrary
+- chrome
+- pip
 
 # instalation
 
